@@ -16,4 +16,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ## Deploy
-The project is deployed in Vercel: [https://ted-website.vercel.app](https://ted-website.vercel.app)
+The project is deployed in Vercel: 
+- Master: [https://ted-website.vercel.app](https://ted-website.vercel.app)
+
+- Develop: [https://ted-website-38uehwn1c-kyphanz1.vercel.app](https://ted-website-38uehwn1c-kyphanz1.vercel.app)
