@@ -2,7 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-
 ## Available Scripts
 
 In the project directory, you can run:
@@ -16,6 +15,8 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ## Deploy
-The project is deployed in Vercel: 
-- Master: [https://ted-website.vercel.app](https://ted-website.vercel.app)
-- Develop: [https://ted-website-38uehwn1c-kyphanz1.vercel.app](https://ted-website-38uehwn1c-kyphanz1.vercel.app)
+
+The project is deployed in Vercel:
+
+- Master: [https://ted-team.vercel.app](https://ted-team.vercel.app)
+- Develop: [https://ted-website-git-develop-kyphanz1.vercel.app/](https://ted-website-git-develop-kyphanz1.vercel.app/)
