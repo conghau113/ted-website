@@ -1,0 +1,10 @@
+div#container {
+  min-height: 100vh; /* real browsers */
+  height: auto !important; /* real browsers */
+  height: 100%; /* IE6: treaded as min-height*/
+}
+
+.bg-black-blue {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(333deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+}
